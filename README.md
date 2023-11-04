@@ -1,1 +1,1 @@
-# Data-Wrangling-and-SQL
+# Data Wrangling and SQL
